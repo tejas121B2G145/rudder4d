@@ -1,0 +1,5 @@
+defaultProject: engaged-oarlock-425609-h2
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0-beta.4
